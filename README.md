@@ -16,6 +16,6 @@
 * 작업디렉토리-인덱스(스테이지)-저장소
 
 ### 3. github 실습 : local repository를 remote repository로 복제(?)하기
-github 페이지 로그인 후 repository 만들기
+#### github 페이지 로그인 후 repository 만들기
     git remote add origin 원격저장소주소
     git push -u origin master
