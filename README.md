@@ -18,5 +18,5 @@
 ### 3. github 실습
 #### 1) local repository를 remote repository로 복제(?)하기
 * github 페이지 로그인 후 repository 만들기
-    git remote add origin 원격저장소주소
-    git push -u origin master
+      git remote add origin 원격저장소주소
+      git push -u origin master
