@@ -1,6 +1,7 @@
 # git practice (2018-02-10 스터디 정리)
 
 ### 1. 리눅스 명령어
+* 윈도우 운영체제에서 리눅스 명령어 사용하려면 powershell을 사용
 #### 1) print working directory
     pwd
 #### 2) pwd에 있는 폴더 확인
